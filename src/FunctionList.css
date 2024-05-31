@@ -1,0 +1,14 @@
+.functionList-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+h1 {
+    display: contents;
+}
+
+.container-div {
+    display: flex;
+    justify-content: space-between;
+}
