@@ -2,7 +2,7 @@
 ## React.js建立的網站 -- 實施訂房網站功能
 Reaxt.js建立的網站,以vite執行,用了大量material ui的component協助建立
 
-專案:vite-react-deploy
+專案:vite-react-deploy程式構建圖
 
 ![appjsx](https://github.com/Kk0627-1/vite-react-deploy/assets/55129180/eb7426a7-e963-40e5-a3f3-306104352c6e)
 
