@@ -4,13 +4,8 @@ Reaxt.js建立的網站,以vite執行,用了大量material ui的component協助�
 
 專案:vite-react-deploy
 
-App.jsx: 網頁主要驅動App程式 
-存有roomDatabase_list(訂房資料)、orderDatabase_list(訂單紀錄)、hoteldata(飯店資料)三筆資料,
-並有WebHeader、WebBody、WebFooter三個component
+![webheader](https://github.com/Kk0627-1/vite-react-deploy/assets/55129180/d839f50b-b49a-4ce5-a016-1ff5603f05cc)
 
-![Appjsx](https://github.com/Kk0627-1/vite-react-deploy/assets/55129180/bf0357f1-98db-45f4-8d23-b2c627f7d3a7)
-
-WebBody.jsx: 
 
 
 
